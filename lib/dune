@@ -1,2 +1,3 @@
 (library
- (name sqli))
+ (name sqli)
+ (libraries base core stdio))
