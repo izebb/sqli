@@ -1,0 +1,4 @@
+(executable
+ (public_name sqli)
+ (name main)
+ (libraries sqli))
